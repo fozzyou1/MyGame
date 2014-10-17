@@ -6,6 +6,7 @@
 //  Copyright (c) 2014년 park. All rights reserved.
 //
 //  Campain 1 Complate
+//  Campain 2 Complate
 //
 
 #import <UIKit/UIKit.h>
