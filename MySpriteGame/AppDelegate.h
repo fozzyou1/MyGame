@@ -1,6 +1,6 @@
 //
 //  AppDelegate.h
-//  MyGame
+//  MySpriteGame
 //
 //  Created by park on 2014. 10. 17..
 //  Copyright (c) 2014년 park. All rights reserved.

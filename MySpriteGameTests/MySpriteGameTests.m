@@ -1,6 +1,6 @@
 //
-//  MyGameTests.m
-//  MyGameTests
+//  MySpriteGameTests.m
+//  MySpriteGameTests
 //
 //  Created by park on 2014. 10. 17..
 //  Copyright (c) 2014년 park. All rights reserved.
@@ -9,11 +9,11 @@
 #import <UIKit/UIKit.h>
 #import <XCTest/XCTest.h>
 
-@interface MyGameTests : XCTestCase
+@interface MySpriteGameTests : XCTestCase
 
 @end
 
-@implementation MyGameTests
+@implementation MySpriteGameTests
 
 - (void)setUp {
     [super setUp];
