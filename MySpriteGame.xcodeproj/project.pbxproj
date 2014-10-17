@@ -422,6 +422,7 @@
 				4E82D63219F0FDB200A7E348 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		4E82D63319F0FDB200A7E348 /* Build configuration list for PBXNativeTarget "MySpriteGameTests" */ = {
 			isa = XCConfigurationList;
@@ -430,6 +431,7 @@
 				4E82D63519F0FDB200A7E348 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
