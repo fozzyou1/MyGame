@@ -14,10 +14,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "4E82D5D319F0D8D200A7E348"
-               BuildableName = "MyGame.app"
-               BlueprintName = "MyGame"
-               ReferencedContainer = "container:MyGame.xcodeproj">
+               BlueprintIdentifier = "4E82D60719F0FDB100A7E348"
+               BuildableName = "MySpriteGame.app"
+               BlueprintName = "MySpriteGame"
+               ReferencedContainer = "container:MySpriteGame.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
          <BuildActionEntry
@@ -28,10 +28,10 @@
             buildForAnalyzing = "YES">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "4E82D5EE19F0D8D200A7E348"
-               BuildableName = "MyGameTests.xctest"
-               BlueprintName = "MyGameTests"
-               ReferencedContainer = "container:MyGame.xcodeproj">
+               BlueprintIdentifier = "4E82D62519F0FDB200A7E348"
+               BuildableName = "MySpriteGameTests.xctest"
+               BlueprintName = "MySpriteGameTests"
+               ReferencedContainer = "container:MySpriteGame.xcodeproj">
             </BuildableReference>
          </BuildActionEntry>
       </BuildActionEntries>
@@ -46,20 +46,20 @@
             skipped = "NO">
             <BuildableReference
                BuildableIdentifier = "primary"
-               BlueprintIdentifier = "4E82D5EE19F0D8D200A7E348"
-               BuildableName = "MyGameTests.xctest"
-               BlueprintName = "MyGameTests"
-               ReferencedContainer = "container:MyGame.xcodeproj">
+               BlueprintIdentifier = "4E82D62519F0FDB200A7E348"
+               BuildableName = "MySpriteGameTests.xctest"
+               BlueprintName = "MySpriteGameTests"
+               ReferencedContainer = "container:MySpriteGame.xcodeproj">
             </BuildableReference>
          </TestableReference>
       </Testables>
       <MacroExpansion>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4E82D5D319F0D8D200A7E348"
-            BuildableName = "MyGame.app"
-            BlueprintName = "MyGame"
-            ReferencedContainer = "container:MyGame.xcodeproj">
+            BlueprintIdentifier = "4E82D60719F0FDB100A7E348"
+            BuildableName = "MySpriteGame.app"
+            BlueprintName = "MySpriteGame"
+            ReferencedContainer = "container:MySpriteGame.xcodeproj">
          </BuildableReference>
       </MacroExpansion>
    </TestAction>
@@ -75,10 +75,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4E82D5D319F0D8D200A7E348"
-            BuildableName = "MyGame.app"
-            BlueprintName = "MyGame"
-            ReferencedContainer = "container:MyGame.xcodeproj">
+            BlueprintIdentifier = "4E82D60719F0FDB100A7E348"
+            BuildableName = "MySpriteGame.app"
+            BlueprintName = "MySpriteGame"
+            ReferencedContainer = "container:MySpriteGame.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
       <AdditionalOptions>
@@ -93,10 +93,10 @@
       <BuildableProductRunnable>
          <BuildableReference
             BuildableIdentifier = "primary"
-            BlueprintIdentifier = "4E82D5D319F0D8D200A7E348"
-            BuildableName = "MyGame.app"
-            BlueprintName = "MyGame"
-            ReferencedContainer = "container:MyGame.xcodeproj">
+            BlueprintIdentifier = "4E82D60719F0FDB100A7E348"
+            BuildableName = "MySpriteGame.app"
+            BlueprintName = "MySpriteGame"
+            ReferencedContainer = "container:MySpriteGame.xcodeproj">
          </BuildableReference>
       </BuildableProductRunnable>
    </ProfileAction>

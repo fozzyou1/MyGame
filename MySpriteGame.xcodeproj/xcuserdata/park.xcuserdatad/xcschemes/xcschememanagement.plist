@@ -4,20 +4,20 @@
 <dict>
 	<key>SchemeUserState</key>
 	<dict>
-		<key>MyGame.xcscheme</key>
+		<key>MySpriteGame.xcscheme</key>
 		<dict>
 			<key>orderHint</key>
-			<integer>0</integer>
+			<integer>1</integer>
 		</dict>
 	</dict>
 	<key>SuppressBuildableAutocreation</key>
 	<dict>
-		<key>4E82D5D319F0D8D200A7E348</key>
+		<key>4E82D60719F0FDB100A7E348</key>
 		<dict>
 			<key>primary</key>
 			<true/>
 		</dict>
-		<key>4E82D5EE19F0D8D200A7E348</key>
+		<key>4E82D62519F0FDB200A7E348</key>
 		<dict>
 			<key>primary</key>
 			<true/>

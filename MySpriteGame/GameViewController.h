@@ -1,13 +1,13 @@
 //
 //  GameViewController.h
-//  MyGame
+//  MySpriteGame
 //
 
 //  Copyright (c) 2014년 park. All rights reserved.
 //
 
 #import <UIKit/UIKit.h>
-#import <SceneKit/SceneKit.h>
+#import <SpriteKit/SpriteKit.h>
 
 @interface GameViewController : UIViewController
 

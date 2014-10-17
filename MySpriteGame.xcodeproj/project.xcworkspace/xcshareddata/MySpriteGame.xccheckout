@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>258DEAAB-E4F7-46C8-9638-210652DA44BA</string>
+	<key>IDESourceControlProjectName</key>
+	<string>MySpriteGame</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>08E5204C9A4A584A4AF99B80F69AE7EA01C333E2</key>
+		<string>https://github.com/fozzyou1/MyGame.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>MySpriteGame.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>08E5204C9A4A584A4AF99B80F69AE7EA01C333E2</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/fozzyou1/MyGame.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>08E5204C9A4A584A4AF99B80F69AE7EA01C333E2</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>08E5204C9A4A584A4AF99B80F69AE7EA01C333E2</string>
+			<key>IDESourceControlWCCName</key>
+			<string>MyGame</string>
+		</dict>
+	</array>
+</dict>
+</plist>
